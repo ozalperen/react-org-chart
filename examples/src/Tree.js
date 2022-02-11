@@ -4,9 +4,9 @@ export const tree = {
   id: 100,
   person: {
     id: 100,
-    avatar: avatarPersonnel,
-    department: '',
-    name: 'Henry monger',
+    avatar: './assets/erdem.png',
+    department: 's',
+    name: 'Dr. R Erdem Erkul',
     title: 'Manager',
     totalReports: 3,
   },
@@ -20,7 +20,7 @@ export const tree1 = [
     id: 36,
     person: {
       id: 36,
-      avatar: avatarPersonnel,
+      avatar: 'https://pbs.twimg.com/profile_images/1484625586291097600/nwvsNbpT_400x400.jpg',
       department: '',
       name: 'Tomasz polaski',
       title: 'IT Specialist',
